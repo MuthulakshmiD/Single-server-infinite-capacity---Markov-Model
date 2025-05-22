@@ -1,5 +1,5 @@
 # Single server with infinite capacity (M/M/1):(oo/FIFO)
-### Muthulakshmi D 
+## Name : Muthulakshmi D 
 ## Reg : 212223040122
 
 ## Aim :
